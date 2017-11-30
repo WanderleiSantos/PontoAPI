@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/WanderleiSantos/PontoAPI.svg?branch=master)](https://travis-ci.org/WanderleiSantos/PontoAPI)
+
 # PontoAPI
 API do sistema de ponto com Java e Spring Boot.
 
